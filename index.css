@@ -1,0 +1,37 @@
+body{
+    background-color: bisque;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 640px;
+}
+.slideshow{
+    display: flex;
+    transform: translateX(-500px);
+    transition: 0.5s ease-in-out;
+}
+.btn{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 50%;
+    opacity: 0.7;
+    background: #00000000;
+}
+.btn.next{
+    right: 5px;
+}
+.btn.prev{
+    left: 5px;
+}
+.btn:hover{
+    opacity: 1;
+}
+.imgcontainer{
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    height: 300px;
+    width: 500px;
+    border-radius: 10px;
+}

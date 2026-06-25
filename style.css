@@ -1,0 +1,40 @@
+.key{
+    color: #a6ff00;
+    text-align: center;
+}
+.lock{
+    font-size: medium; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:darkgreen;
+    text-align: center;
+}
+#data li{
+    display: inline;
+    
+}
+.hello{
+        border:2px solid black; 
+        background-color: rgb(255, 255, 255);
+        border-collapse: collapse;
+        width: 300px;
+        padding: 10px;
+        text-align: center;
+}
+.hello2{
+    border: 2px solid black;
+    padding: 10px;
+}
+p{
+    border:solid black ;
+    border-style: double;
+    border-width: 10px;
+    border-color: #a6ff00;
+}
+.io{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+h1{
+    color: #a6ff00;
+}

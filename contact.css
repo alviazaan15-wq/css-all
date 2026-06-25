@@ -1,0 +1,75 @@
+.jj{
+ background-color: black;
+ height: 75px;
+ text-align: center;
+border-radius: 100px;
+}
+.ee{
+    background-color: hwb(0 79% 16%);
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.bb{
+    font-weight: bolder;
+ padding-left:347px;
+    padding-right: 20px;
+    color:#ffffff
+    }
+    .mm{
+    padding-left: 245px;
+}
+ul li{
+    float: left;
+    list-style: none;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    font-size: 25px;
+    padding-left:40px;
+}
+.ppbizon{
+    text-align: center;
+}
+.ap{
+    padding: 10px;  
+margin-left: 40px;
+border-radius: 6px;
+}
+.ak{
+    margin-right: 30px;
+    border-radius: 6px;
+    padding: 10px;
+}
+.ump{
+    padding-top: 20px;
+}   
+.ad{
+padding: 10px;  
+margin-left: 40px;
+border-radius: 6px;
+padding-right: 64px;
+}
+.ao{
+    width: 454px;
+    height: 149px;
+    margin: 20px;
+    border-radius: 8px;
+}
+.btn:hover{
+    background-color: whitesmoke;
+    border: 2px;
+    color: black;
+    }
+#meow1{
+    position: absolute;
+    bottom: 20px;
+    /* right: -216px; */
+    left: 1200px;
+
+}
+.io{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
